@@ -1,0 +1,4 @@
+node_modules
+.env
+   candidate_details.txt
+   *_resume.pdf
